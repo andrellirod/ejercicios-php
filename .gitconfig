@@ -1,0 +1,10 @@
+[user]
+  name = John Andre Hurtado Llirod
+  email = andrellirod@gmail.com
+[color]
+  status = auto
+  branch = auto;
+  diff =auto
+  interactive = auto
+
+
